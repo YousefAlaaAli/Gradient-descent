@@ -13,7 +13,7 @@ The goal is to understand how different gradient descent methods perform in opti
 
 ## 📁 Dataset
 
-The dataset used is [`Student_Performance.csv`](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression), which contains 10,000 rows and the following columns:
+The dataset used is [`Student Performance`](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression), which contains 10,000 rows and the following columns:
 
 - `Hours Studied`
 - `Previous Scores`
